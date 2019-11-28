@@ -1,5 +1,5 @@
 # k2_lc
-Download K2 lightcurve
+Download K2 lightcurve.  
 The primary header in downloaded light curve fits file can be found in the kepler **archive_manual.pdf**, P16, Sect. 2.3.1
 
 1. Download all the wget scripts of light curves in all campaigns from the link:
