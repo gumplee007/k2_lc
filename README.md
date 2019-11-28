@@ -28,5 +28,6 @@ Download K2 lightcurve
     ```bash
     >>> grep -f k2_ids.txt lc_all_wget.txt > download_lc.sh
     change the permission of bash shell download_lc.sh, and run it to download,
+    >>> sudo chmod +x download_lc.sh
     >>> bash ./download_lc.sh
     ```
