@@ -1,3 +1,4 @@
+#!/bin/bash
 wget -q https://archive.stsci.edu/pub/k2/download_scripts/lightcurves/all/c0_lc_all_wget.txt
 wget -q https://archive.stsci.edu/pub/k2/download_scripts/lightcurves/all/c10_lc_all_wget.txt
 wget -q https://archive.stsci.edu/pub/k2/download_scripts/lightcurves/all/c11_lc_all_wget.txt
