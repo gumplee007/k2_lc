@@ -15,6 +15,9 @@ Download K2 lightcurve
     All the download script files have been downloaded in the diretory **./all**
 
 2. Combine all the download script files, and they have already been combine to the file **lc_all_wget.txt**.
+    ```bash
+    >>> cat all/c*_lc_all_wget.txt > lc_all_wget.txt
+    ```
 
 3. Match your k2 id with **lc_all_wget.txt**, and run *wget* or with bash shell  
     for example, if your k2 id is 210676049, use *grep* command:
